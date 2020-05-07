@@ -1,2 +1,2 @@
 # newsample
-new sample repo
+new sample repo created by myself
