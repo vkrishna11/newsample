@@ -9,8 +9,6 @@ feature24 [`Youtube`][youtube]
 [red]: https://www.rediff.com
 [youtube]: https://www.youtube.com
 
-go the [last para](#versioned-text)
-
 - **this is the first line.** And just a _dummy line_ in the paragraph.
 - **this is the _second line_.** And this is not bold
 * this is the third line.
@@ -24,26 +22,3 @@ this is a separate paragraph.
 is it highlighted?
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### versioned text
-The versioned text begins here
-and is the last paragraph
-
